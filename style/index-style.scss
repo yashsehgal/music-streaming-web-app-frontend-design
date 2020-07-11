@@ -1,0 +1,47 @@
+#navbar-container {
+  float: left;
+  margin: 0px;
+  // margin-inline;
+  #navbar-section {
+    width: 340px
+  }
+}
+
+#logo-text {
+  float: left;
+  padding: 2em;
+  width: 140px;
+  cursor: pointer;
+  // .logo-image {
+  //   // cursor: pointer;
+  // }
+}
+
+#search-section {
+  position: absolute;
+  padding-left: 24.7em;
+  padding-top: 6em;
+}
+
+#search-bar {
+  cursor: text;
+  width: 260px;
+  position: relative;
+  // #search-container-image {
+  //   // cursor: text;
+  // }
+}
+
+#music-event-section {
+  position: absolute;
+  text-align: center;
+  padding-left: 24.7em;
+  padding-top: 10em;
+  #music-event {
+    width: 800px;
+  }
+}
+
+body {
+  background-color: black;
+}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="45" viewBox="0 0 480 45">
+  <g id="search-bar-container" transform="translate(-566 -121)">
+    <rect id="search-bar" width="480" height="45" rx="15" transform="translate(566 121)" fill="#989898"/>
+    <text id="search" transform="translate(596 152)" fill="#fff" font-size="26" font-family="OpenSans-Regular, Open Sans"><tspan x="0" y="0">search</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg id="navbar-section-container" xmlns="http://www.w3.org/2000/svg" width="513" height="1080" viewBox="0 0 513 1080">
+  <rect id="navbar-section" width="513" height="1080" fill="#2481ff"/>
+  <text id="Home" transform="translate(50 180.5)" fill="#fff" font-size="30" font-family="OpenSans-Regular, Open Sans"><tspan x="0" y="0">Home</tspan></text>
+  <text id="Explore" transform="translate(50 295.5)" fill="#fff" font-size="30" font-family="OpenSans-Regular, Open Sans"><tspan x="0" y="0">Explore</tspan></text>
+  <text id="Profile" transform="translate(50 410.5)" fill="#fff" font-size="30" font-family="OpenSans-Regular, Open Sans"><tspan x="0" y="0">Profile</tspan></text>
+  <text id="Settings" transform="translate(50 525.5)" fill="#fff" font-size="30" font-family="OpenSans-Regular, Open Sans"><tspan x="0" y="0">Settings</tspan></text>
+  <text id="Help" transform="translate(50 640.5)" fill="#fff" font-size="30" font-family="OpenSans-Regular, Open Sans"><tspan x="0" y="0">Help</tspan></text>
+  <text id="About_Us" data-name="About Us" transform="translate(50 827.5)" fill="#fff" font-size="30" font-family="OpenSans-Regular, Open Sans"><tspan x="0" y="0">About Us</tspan></text>
+  <text id="Terms_and_Conditions" data-name="Terms and Conditions" transform="translate(50 924.5)" fill="#fff" font-size="30" font-family="OpenSans-Regular, Open Sans"><tspan x="0" y="0">Terms and Conditions</tspan></text>
+</svg>
